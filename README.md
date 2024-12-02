@@ -56,7 +56,7 @@ console.log(flx_ts.Flx.Score("buffer-file-name", "bfn"));
 
 `flx-ts` is distributed under the terms of the MIT license.
 
-See [LICENSE](./LICENSE) for details.
+See [`LICENSE`](./LICENSE) for details.
 
 
 <!-- Links -->
