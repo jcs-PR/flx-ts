@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/tag/the-flx/flx-ts.svg?label=release&logo=github)](https://github.com/the-flx/flx-ts/releases/latest)
 [![npm](https://img.shields.io/npm/v/flx-ts?logo=npm&color=green)](https://www.npmjs.com/package/flx-ts)
 [![npm-dt](https://img.shields.io/npm/dt/flx-ts.svg)](https://npmcharts.com/compare/flx-ts?minimal=true)
 [![npm-dm](https://img.shields.io/npm/dm/flx-ts.svg)](https://npmcharts.com/compare/flx-ts?minimal=true)
