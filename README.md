@@ -47,6 +47,15 @@ In your javascript file:
 console.log(flx_ts.Flx.Score("buffer-file-name", "bfn"));
 ```
 
+## 🛠️ Development
+
+To run tests:
+
+```sh
+$ npm install --dev
+$ npm run build
+```
+
 ## 📦 Other alternatives
 
 - [fuzzysort](https://github.com/farzher/fuzzysort)
